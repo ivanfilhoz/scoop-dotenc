@@ -1,10 +1,10 @@
 {
-  "version": "0.6.1",
+  "version": "0.7.0",
   "description": "Git-native encrypted environments powered by your SSH keys",
   "homepage": "https://github.com/ivanfilhoz/dotenc",
   "license": "MIT",
-  "url": "https://github.com/ivanfilhoz/dotenc/releases/download/v0.6.1/dotenc-windows-x64.zip",
-  "hash": "sha256:ed677f13620d50c1315e7bc4d1e64974213fb02e7fbc264d5f553d574b7fbe40",
+  "url": "https://github.com/ivanfilhoz/dotenc/releases/download/v0.7.0/dotenc-windows-x64.zip",
+  "hash": "sha256:4dfb806d5aa294fe564c771608a5598457a38c7e2a4e418581c991a5ab99e7a3",
   "bin": [["dotenc-windows-x64.exe", "dotenc"]],
   "checkver": {
     "github": "https://github.com/ivanfilhoz/dotenc"
