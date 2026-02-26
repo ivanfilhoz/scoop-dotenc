@@ -4,7 +4,7 @@
   "homepage": "https://github.com/ivanfilhoz/dotenc",
   "license": "MIT",
   "url": "https://github.com/ivanfilhoz/dotenc/releases/download/v0.7.4/dotenc-windows-x64.zip",
-  "hash": "sha256:40428e89735cc32660fdbe53c8a7baa8aa38c78eb25a9c2033ba6bc7f914d47f",
+  "hash": "sha256:35446952d71f3e881abf0e98d3ff02167bd7ec46028fc3842a5d49d7d9614a95",
   "bin": [["dotenc-windows-x64.exe", "dotenc"]],
   "checkver": {
     "github": "https://github.com/ivanfilhoz/dotenc"
